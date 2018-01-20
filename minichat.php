@@ -38,7 +38,7 @@ $ChatThread = $bdd->query('SELECT UPPER(Pseudo) AS Pseudo_maj, Message FROM mini
     <header>
 		<img src="minicat.jpg" alt="Petit chat pas content et tout mouillé" class="ImageChat"/>
     	<div class="titreprincipal"> 
-    	<h1> Le chat <br/> Le Miaou </h1>
+    	<h1> Le chat Miaou </h1>
     	</div>	
     </header>
   
