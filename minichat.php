@@ -51,7 +51,7 @@ $ChatThread = $bdd->query('SELECT UPPER(Pseudo) AS Pseudo_maj, Message FROM mini
   				<input type= "text" name="PseudoName" id="PseudoNameField" /><br/>
   				<label for="MessageContent"> dit: </label>
   				<input type="text" name="MessageContent" id="MessageContent" />
-  				<input type="submit" value="Miaou"/> 
+  				<input type="submit" value="Miaou!"/> 
   			</form>
   	</fieldset>
   </section>
